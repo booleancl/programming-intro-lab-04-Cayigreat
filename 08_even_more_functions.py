@@ -15,7 +15,6 @@ def circle_volume(radius,heihgt):
 
 result_two = circle_volume(4,10)
 print(result_two)
-print(area)
 
 def circle_volume(radius,heihgt):
   volume= circle_area(radius)*heihgt
