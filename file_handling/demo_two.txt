@@ -3,3 +3,6 @@ ahora si?
 holaaaa
 prueba 5000
 veamos
+holaa
+exit
+ahora si

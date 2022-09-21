@@ -25,4 +25,7 @@ print(my_car["model"])
 
 # También podemos agregar llaves y valores
 my_car["color"] = "silver"
+
+# También se puede imprimir el diccionario completo
 print(my_car)
+
