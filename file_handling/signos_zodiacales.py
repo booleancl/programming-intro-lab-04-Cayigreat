@@ -20,7 +20,7 @@ def print_menu():
     print("9 Sagitario (22 de Noviembre al 21 de Diciembre)")
     print("10 Capricornio (22 de Diciembre al 20 de Enero)")
     print("11 Acuario (21 de Enero al 19 de Febrero)")
-    print("12 Piscis (20 de Febrero al 20 de Marzo)")
+    print("12 Piscis (20 de Febrero al 20 de Marzo)\n")
     print("Escriba exit para salir")
     print("   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<   ")  
 
